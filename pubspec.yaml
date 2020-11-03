@@ -17,7 +17,6 @@ dependencies:
   get:
   camera: ^0.5.8+11
   tflite: ^1.1.1
-  permission_handler: ^5.0.1+1
 
 dev_dependencies:
   flutter_test:
