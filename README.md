@@ -1,16 +1,12 @@
-# flutter_tflite_object_detection
+# flutter tflite object detection
 
-A new Flutter project.
+Flutter implementation of Tensorflow Lite's object detection, using pretrained SSDMobilenet v1 model from official Tensorflow Lite guide [here](https://www.tensorflow.org/lite/models/object_detection/overview).
 
-## Getting Started
+## libraries
 
-This project is a starting point for a Flutter application.
+This project depends on these main libraries:
 
-A few resources to get you started if this is your first Flutter project:
+- [tflite](https://pub.dev/packages/tflite)
+- [camera](https://pub.dev/packages/camera)
+- [getx](https://pub.dev/packages/get)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
